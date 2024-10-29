@@ -1,6 +1,6 @@
-
-*코어과정의 퀘스트에 관한 레포지토리 입니다.
 ```bash
+*코어과정의 퀘스트에 관한 레포지토리 입니다.
+
 coreproject
 ├── 1. Main QUEST
 │   ├── Main QUEST 01
