@@ -81,3 +81,6 @@ class Kiosk:
 modu = Kiosk()
 modu.menu_print()
 modu.menu_select()
+
+
+#순서가 2번문제에서 3번으로 간거보단 3번에서 2번으로 넘어와서 풀어가지고 섞인게 있습니다.
