@@ -27,12 +27,12 @@
 
 ## 앱 구조도
 
-
+![앱구조 및 분석](https://github.com/leehan32/AIFFEL_quest_cr/blob/master/3.%20FLUTTER/SUB%20QUEST%20C%2014/app/%EC%95%B1%20%EA%B5%AC%EC%A1%B0%20%EB%B0%8F%20%EB%B6%84%EC%84%9D.png)
 
 
 ## 앱 와이어프레임 (사용 툴 : 피그마마)
 
-
+![앱 와이어 프레임](https://github.com/leehan32/AIFFEL_quest_cr/blob/master/3.%20FLUTTER/SUB%20QUEST%20C%2014/app/%EC%95%B1%20%EC%99%80%EC%9D%B4%EC%96%B4%20%ED%94%84%EB%A0%88%EC%9E%84.png)
 
 
 ## 프로토타이핑 
