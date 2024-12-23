@@ -4,7 +4,7 @@ class CountClock {
   int counter; 
   late Timer timer; 
 
-  CountClock(int m) : counter = m * 60; //생성자 
+  CountClock(int m) : counter = m * 1; //생성자 
 
   void start(Function onComplete) { //onecomplte 타이머가 끝났을때 다음 작업시작작 실행되는 콜백 함수수
     timer = Timer.periodic(Duration(seconds: 1), (timer1) {
@@ -27,9 +27,9 @@ class CountClock {
 
 
 main(){
-    CountClock main = CountClock(25);
-    CountClock shor = CountClock(5);
-    CountClock long = CountClock(15);
+    CountClock main = CountClock(2);
+    CountClock shor = CountClock(2);
+    CountClock long = CountClock(2);
    main.start(() {
     shor.start(() {
       main.start(() {
