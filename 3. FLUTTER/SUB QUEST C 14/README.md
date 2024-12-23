@@ -49,10 +49,17 @@
 1. main.dart - 메인 화면으로 기본적인 구성으로만 작성 되어 있습니다.
 2. home.dart - 첫시작과 사진을 보여주는것으로 시작 검색시 그지역의 사진을 보여주거나 
                하단바를 누르면 랜덤으로 장소를 보여줍니다.
-3. flight_booking.dart - 앞의 사진의 선택을 기반으로 해당 위치의의 사진 장소의 항공편을 검색합니다.
-4. Accommodation_reservation.dart - 해당위치의 숙소를 검색합니다.
-5. total_info.dart - 마지막을 선택한 정보 그리고 해당 사진스폿뿐만 아니라 밑에 근방의 다른곳도 소개하고
+   ![홈화면1](https://github.com/leehan32/AIFFEL_quest_cr/blob/master/3.%20FLUTTER/SUB%20QUEST%20C%2014/app/1.png)
+   ![홈화면2](https://github.com/leehan32/AIFFEL_quest_cr/blob/master/3.%20FLUTTER/SUB%20QUEST%20C%2014/app/2.png)
+4. flight_booking.dart - 앞의 사진의 선택을 기반으로 해당 위치의의 사진 장소의 항공편을 검색합니다.
+  ![비행예약화면](https://github.com/leehan32/AIFFEL_quest_cr/blob/master/3.%20FLUTTER/SUB%20QUEST%20C%2014/app/3.png)
+5. Accommodation_reservation.dart - 해당위치의 숙소를 검색합니다.
+  ![숙소예약화면](https://github.com/leehan32/AIFFEL_quest_cr/blob/master/3.%20FLUTTER/SUB%20QUEST%20C%2014/app/4.png)
+6. total_info.dart - 마지막을 선택한 정보 그리고 해당 사진스폿뿐만 아니라 밑에 근방의 다른곳도 소개하고
                      예약을 하거나 설정한 정보를 저장합니다.
+   ![토탈 인포1](https://github.com/leehan32/AIFFEL_quest_cr/blob/master/3.%20FLUTTER/SUB%20QUEST%20C%2014/app/5.png)
+   ![토탈 인포2](https://github.com/leehan32/AIFFEL_quest_cr/blob/master/3.%20FLUTTER/SUB%20QUEST%20C%2014/app/6.png)
+  ![토탈 인포3](https://github.com/leehan32/AIFFEL_quest_cr/blob/master/3.%20FLUTTER/SUB%20QUEST%20C%2014/app/7.png)
 
 
 
